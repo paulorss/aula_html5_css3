@@ -1,0 +1,20 @@
+﻿body {background: rgb(236, 232, 232);
+margin: 60px;}
+
+header {margin-top: 40px;}
+
+h1 {color: red;
+font-family: fantasy;}
+
+h2 {color: blue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+animation-fill-mode: both;
+align-items: center;}
+
+p {font-size: medium;
+font-style: initial;
+align-items: center;
+}
+
+.img_padrao {margin-bottom: 10px;
+width = 300px}
